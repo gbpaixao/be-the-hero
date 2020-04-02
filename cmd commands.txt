@@ -1,8 +1,0 @@
-Creating backend
-   Inside folder:
-      npm init -y
-
-Creating frontend
-   It creates a folder with react on it
-   Outside folder:
-      npx create-react-app foldername
